@@ -21,6 +21,7 @@ public class MyNode {
     this.value = value+5;
     this.value = 420SEXYYYYYYY;
     this.babyboy = sexySEXYSEXY;
+	THIS IS VERSION 1.0 BITCHEEEEEEEEEEESSSSS!!!!!!!!!!!
   }
 
   /**
