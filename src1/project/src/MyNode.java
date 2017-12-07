@@ -18,7 +18,8 @@ public class MyNode {
    * @param value The value of this node.
    */
   public MyNode(int value) {
-    this.value = value+1;
+    this.value = value+5;
+    this.value = 420;
   }
 
   /**
