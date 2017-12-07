@@ -20,7 +20,7 @@ public class MyNode {
   public MyNode(int value) {
     this.value = value+5;
     this.value = 420SEXYYYYYYY;
-    this.babyboy = sexy;
+    this.babyboy = sexySEXYSEXY;
   }
 
   /**
